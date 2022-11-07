@@ -1,3 +1,5 @@
+<h1> About me <h1/>
+
 - 👋 Hi, I’m @CarolaZapp
 - 👀 I’m interested in developing apps and websites
 - 🌱 I’m currently learning at DCI -Digital Career Institute to become a Web Developer. End of studies will be in March 2023, followed by an internship until May 2023.
