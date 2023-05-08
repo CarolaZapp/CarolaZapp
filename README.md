@@ -1,7 +1,7 @@
 <h3> About me <h3/>
 
-- 👋 Hi, I’m @CarolaZapp
-- 👀 I’m interested in developing apps and websites
+- 👋 Hi, I’m Carola Zapp
+- 👀 I’m interested in developing websites and apps
 - 🌱 I’m currently looking for a job as a Junior Frontend Developer.
   <br/>
    During my 1-year advanced training at DCI I learned the basics of fullstack development. <br/>
