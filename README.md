@@ -2,7 +2,13 @@
 
 - 👋 Hi, I’m @CarolaZapp
 - 👀 I’m interested in developing apps and websites
-- 🌱 I’m currently learning at DCI -Digital Career Institute to become a Web Developer. End of studies will be in March 2023, followed by an internship until May 2023.
+- 🌱 I’m currently looking for a job as a Junior Frontend Developer.
+  <br/>
+   During my 1-year advanced training at DCI I learned the basics of fullstack development. <br/>
+   However, my passion is frontend development, because the fast visualization of the work results inspires me every day... <br/>
+   After 18+ years of experience in design & product development for functional apparel and 3 years of quality assurance
+   and certification of this safety apparel, I would like to enter the digital world as a junior frontend developer with backend knowledge!
+   
 - 📫 How to reach me: carola.zapp@gmx.net
 
 <h5> DCI Badges: </h5>
@@ -19,4 +25,4 @@ CarolaZapp/CarolaZapp is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h5> readme updated 07.03.2023 </h5>
+<h5> readme updated 08.05.2023 </h5>
