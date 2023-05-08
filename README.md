@@ -7,7 +7,7 @@
    During my 1-year advanced training at DCI I learned the basics of fullstack development. <br/>
    However, my passion is frontend development, because the fast visualization of the work results inspires me every day... <br/>
    After 18+ years of experience in design & product development for functional apparel and 3 years of quality assurance
-   and certification of this safety apparel, I would like to enter the digital world as a junior frontend developer with backend knowledge!
+   and certification of this safety apparel, I would like to enter the digital world as a Junior Frontend Developer with backend knowledge!
    
 - 📫 How to reach me: carola.zapp@gmx.net
 
