@@ -9,7 +9,7 @@
    After 18+ years of experience in design & product development for functional apparel and 3 years of quality assurance
    and certification of this safety apparel, I would like to enter the digital world as a Junior Frontend Developer with backend knowledge!
    
-- 📫 How to reach me: carola.zapp@gmx.net
+- 📫 How to reach me and some more details about me pls see also: https://carolazapp.github.io/About_Carola_Zapp/
 
 <h5> DCI Badges: </h5>
 <blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://api.eu.badgr.io/public/assertions/q0xrec_fSJ-sx0XYm_QwPQ?identity__email=carola.zapp%40gmx.net"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/q0xrec_fSJ-sx0XYm_QwPQ/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Fullstack Developer - 3 Stars</p><p class="badgr-badge-date" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded: </strong>17.02.2023</p><p class="badgr-badge-recipient" style="margin: 0; font-size: 12px; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #555555;"><strong style="font-size: 12px; font-weight: bold; font-style: normal; font-stretch: normal; line-height: 1.67; letter-spacing: normal; text-align: left; color: #000;">Awarded To: </strong><span style="display: block;"> Carola Zapp</span></p>
@@ -25,4 +25,4 @@ CarolaZapp/CarolaZapp is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h5> readme updated 08.05.2023 </h5>
+<h5> readme updated 14.08.2023 </h5>
