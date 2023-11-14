@@ -9,7 +9,7 @@
    After 18+ years of experience in design & product development for functional apparel and 3 years of quality assurance
    and certification of this safety apparel, I would like to enter the digital world as a Junior Frontend Developer with backend knowledge!
    
-- 📫 How to reach me: carola.zapp@gmx.net<br/> 
+- 📫 How to reach me: carola.zapp@carolaz.app<br/> 
 - for some more details about me pls see also:<br/> <br/>
   https://carolazapp.github.io/About_Carola_Zapp/<br/> <br/>
 <p align= "center">
