@@ -4,13 +4,17 @@
   
 - 🌱 I’m currently looking for a job as a Junior Frontend Developer.
   <br/> <br/>
-   During my 1-year advanced training at DCI I learned the basics of fullstack development. <br/>
+   During my 14month advanced training at DCI I learned the basics of fullstack development. <br/>
    However, my passion is frontend development, because the fast visualization of the work results inspires me every day... <br/> <br/>
    After 18+ years of experience in design & product development for functional apparel and 3 years of quality assurance
    and certification of this safety apparel, I would like to enter the digital world as a Junior Frontend Developer with backend knowledge!
    
-- 📫 How to reach me and some more details about me pls see also:<br/> <br/>
-  https://carolazapp.github.io/About_Carola_Zapp/
+- 📫 How to reach me: carola.zapp@gmx.net<br/> 
+- for some more details about me pls see also:<br/> <br/>
+  https://carolazapp.github.io/About_Carola_Zapp/<br/> <br/>
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolaZapp&theme=react&layout=compact" />
+</p>
 
 <h3> DCI Badges: </h3>
 <table align = "center">
@@ -94,4 +98,4 @@ CarolaZapp/CarolaZapp is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<h5> readme updated 26.09.2023 </h5>
+<h5> readme updated 14.11.2023 </h5>
