@@ -11,7 +11,7 @@
    
 - 📫 How to reach me: carola.zapp@carolaz.app<br/> 
 - for some more details about me pls see also:<br/> <br/>
-  https://carolazapp.github.io/About_Carola_Zapp/<br/> <br/>
+  https://carolazapp.github.io/About_Carola/<br/> <br/>
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolaZapp&theme=react&layout=compact" />
 </p>
